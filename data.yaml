@@ -1,0 +1,13 @@
+train: dataset/train/images
+val: dataset/valid/images
+
+nc: 7
+
+names:
+  0: helmet
+  1: no_helmet
+  2: vest
+  3: no_vest
+  4: mobile
+  5: fire
+  6: person
